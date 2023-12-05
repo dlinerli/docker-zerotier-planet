@@ -41,27 +41,7 @@ QQ交流群：
 - [捐助和支持](#捐助和支持)
 
 # 0: 广告
-**不想自己搭建?**
 
-可以加群联系群主按月购买现成服务,或者添加tg: [https://t.me/uxkram](https://t.me/uxkram)
-
-月付低至10￥，年付低至100￥
-带宽|流量|费用（每月）|
--|-|-
-3Mbit|100G|10￥
-10Mbit|100G|18￥
-30Mbit|100G|38￥
-50Mbit|100G|58￥
-100Mbit|100G|98￥
-200Mbit|100G|168￥
-
-流量超出后10￥可购买100G
-
-线路为宁波电信
-
-测速图如下：
-
-<img src="./asserts/nb-speed-test.png" width = "800" height = "" alt="图片名称" align=center />
 
 # 1：ZeroTier 介绍
 
